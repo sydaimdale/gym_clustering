@@ -1,0 +1,5 @@
+cluster,segment_name,members,avg_extras_spend,credit_recipients,baseline_net,v1_net,offer_decision
+0,Casual Newcomers,70,9.3,70,185.0,185.0,YES
+1,Loyal Class Regulars,60,16.35,0,-45.0,0.0,NO
+2,Independent Fitness Enthusiasts,109,24.59633027522936,0,-445.0,0.0,NO
+3,Premium Class Enthusiasts,91,46.934065934065934,0,-895.0,0.0,NO

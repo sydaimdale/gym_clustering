@@ -1,0 +1,5 @@
+cluster,training_members,avg_credit_net,total_credit_net,gets_credit,segment_name
+0,46,2.391304347826087,110.0,True,Casual Newcomers
+1,45,-1.0,-45.0,False,Loyal Class Regulars
+2,79,-4.113924050632911,-325.0,False,Independent Fitness Enthusiasts
+3,61,-9.754098360655737,-595.0,False,Premium Class Enthusiasts
